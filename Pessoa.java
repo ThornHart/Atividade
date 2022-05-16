@@ -26,7 +26,5 @@ public class Pessoa {
 
     public void setNome(String nome) {
         this.nome = nome;
-    }
-
-    
+    }  
 }
